@@ -26,12 +26,12 @@ key2 = setup_button(board.D1)
 key3 = setup_button(board.D2)
 
 # Encoder
-encoder = rotaryio.IncrementalEncoder(board.D3, board.D4)
+encoder = rotaryio.IncrementalEncoder(board.D7, board.D8)
 enc_btn = setup_button(board.D5)
 last_position = encoder.position
 
 # Neopixels
-pixels = neopixel.NeoPixel(board.D6, 4, brightness=0.3, auto_write=True)
+pixels = neopixel.NeoPixel(board.D10, 4, brightness=0.3, auto_write=True)
 
 # OLED
 i2c = busio.I2C(board.SCL, board.SDA)
