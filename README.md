@@ -10,6 +10,8 @@ CAD:
 
 PCB:
 <img width="951" height="439" alt="pcb" src="https://github.com/user-attachments/assets/18d4ada8-f878-4b1f-9073-7a0d96b32078" />
+<img width="931" height="449" alt="Screenshot from 2026-03-28 14-25-42" src="https://github.com/user-attachments/assets/7c85c9d3-5f0c-4298-92fc-f2a1e152d1dd" />
+
 
 
 
