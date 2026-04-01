@@ -1,5 +1,5 @@
 # DINKYPAD
-It is a 3-key macropad which ii plan on using for music control.It consists of an oled display for cool animations, an rotary encoder for volume control and rgb leds for lighting.
+It is a 3-key macropad which i plan on using for music control.It consists of an oled display for cool animations, an rotary encoder for volume control and rgb leds for lighting.
 
 I would be using the keys for media control and rotay encoder for volume control.
 
